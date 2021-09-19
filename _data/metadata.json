@@ -1,10 +1,10 @@
 {
-  "title": "Your Blog Name",
+  "title": "Salesforce Adjacent Blog",
   "url": "https://example.com/",
   "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "A blog about Salesforce and Salesforce adjacent quirks.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "A blog about Salesforce and Salesforce adjacent quirks.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://example.com/"
@@ -14,8 +14,8 @@
     "url": "https://example.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
+    "name": "Anonymous Author - For Now :)",
+    "email": "4pointoh@gmail.com",
     "url": "https://example.com/about-me/"
   }
 }
