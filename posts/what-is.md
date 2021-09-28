@@ -3,7 +3,6 @@ title: What is this blog?
 description: What is this blog?
 date: 2021-09-19
 tags:
-  - Salesforce
 layout: layouts/post.njk
 ---
 
