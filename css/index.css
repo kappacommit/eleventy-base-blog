@@ -269,3 +269,10 @@ a[href].direct-link:focus:visited,
   padding-bottom: 5px;
   border-bottom: 1px dashed var(--lightgray);
 }
+
+#made-with {
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1;
+  text-align: center;
+}

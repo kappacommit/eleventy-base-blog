@@ -22,7 +22,7 @@ As a result, this blog should load *fast*! Go ahead, see how fast it loads.
 
 **Note**: This blog is primarily focused on development, deployments, application lifecycle management, and just generally the technical side of Salesforce.
 
-I have created this blog is to make note of any interesting, niche, or poorly-documented features around Salesforce, and around tools that interact with the Salesforce platform (no proprietary code!)
+I have created this blog to make note of any interesting, niche, or poorly-documented features around Salesforce, and around tools that interact with the Salesforce platform (no proprietary code!)
 
 Examples:
 - DevOps with the Salesforce Platform
