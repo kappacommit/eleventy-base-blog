@@ -10,3 +10,4 @@ layout: layouts/post.njk
 ## Code Review
 - Maybe something about this
 - What to look for specifically in SF code reviews
+- Flow review, declarative automation review
