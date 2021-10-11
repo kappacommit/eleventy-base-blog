@@ -101,4 +101,4 @@ This has some notable benefits:
 - Substantially faster
 - Less chance of touching "bad" metadata that could fail the deployment
 
-There is a bit of a gotcha in regards to unit tests, but that can be addressed too (basically: partial testing.) See [testing](../testing).
+Note, we didn't address the issue with unit tests. With this approach as-is, you still need to run every unit test in order to guarantee sufficient coverage. Luckily, I have a solution to that to (hint: partial testing), see [testing](../testing).
