@@ -10,7 +10,7 @@ layout: layouts/post.njk
 Ok, that isn't always true, but it is certainly top 5 in virtually all serious software companies. Of course, I am talking about **Lead Time**. 
 
 What is **Lead Time**? Lead time is the amount of time it takes for a piece of work to go from an "idea in somebody's head" to generating value. 
-- If you think of some great new feature today, and next week this feature is live in production generating value, then you lead time was 1 week. 
+- If you think of some great new feature today, and next week this feature is live in production generating value, then your lead time was 1 week. 
 
 ## Other types of lead time
 Often **Lead Time** is too broad of a metric to really be valuable. Especially when a company becomes huge and it takes hundreds of processes to bring an idea to production. 
