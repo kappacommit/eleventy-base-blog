@@ -1,7 +1,7 @@
 ---
 title: Automated Quality Gates
 description: Write-up on automated quality gates with Salesforce
-date: 2018-09-13
+date: 2021-09-13
 tags:
   - DevOps
   - Salesforce
