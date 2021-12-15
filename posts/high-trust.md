@@ -1,7 +1,7 @@
 ---
 title: High Trust Environments
 description: High Trust Environments
-date: 2021-12-12
+date: 2021-09-17
 tags:
   - DevOps
 layout: layouts/post.njk

@@ -1,7 +1,7 @@
 ---
 title: DevOps With Salesforce
 description: Brain dump on DevOps + Salesforce
-date: 2021-09-28
+date: 2021-09-11
 tags:
   - DevOps
   - Salesforce
@@ -38,7 +38,9 @@ A pillar of DevOps is to ensure all of your development process is occurring in 
 See: [Automated Quality Gates](../quality-gates)
 
 ## High Trust Environments
-- Maybe something about this
+High trust enviornments are, in my opinion, critical. Blame is the enemy of the engineering process.
+
+See: [High Trust Environments](../high-trust)
   
 ## Upskilling
 Knowledge sharing is a critical piece of the software development process. Having 1 person who knows something is always a risk to every project.
